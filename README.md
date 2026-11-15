@@ -111,7 +111,7 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 </p>
 
 <p>
-  Here I'm on the Departments page, and I'll click "Add New Department".
+  Here I'm on the Departments page, and I'll click "Add New Department". I'll be creating a new department called "SysAdmins".
 </p>
 
 <p>
