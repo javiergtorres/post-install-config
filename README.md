@@ -100,3 +100,7 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
   <img width="1824" height="1008" alt="screenshot-adding-sysadmin-department" src="https://github.com/user-attachments/assets/10e577c1-99ab-4ce4-8f4c-806bfbaa29d5" />
 
 </p>
+
+<p>
+  Here I'm on the Departments page, and I'll click "Add New Department".
+</p>
