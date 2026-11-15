@@ -47,7 +47,7 @@ First thing, I created a Windows 11 virtual machine in Microsoft Azure. I'll nee
 
 </p>
 <p>
-Here you can see I'm using Remmina (a Remote Desktop Protocol application). The software I'm using on my laptop is Garuda Linux. From here I'll connect to the Windows 11 virtual machine by pressing the connect button.
+The software I'm using on my laptop is Garuda Linux. Here you can see I'm using Remmina, a Remote Desktop Protocol application, one of the main options for using RDP on Linux. All I need is to punch in the public IP address of the virtual machine, username, and password in the correct fields.  From here I'll connect to the Windows 11 virtual machine by pressing the connect button.
 </p>
 <br />
 
