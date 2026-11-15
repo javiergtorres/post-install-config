@@ -179,5 +179,9 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 </p>
 
 <p>
-  Next, I'm going to create two "Agents". Agents, for example, are when a company hires new employees so Agent accounts get created for new hires. I'll be creating, "Jane (Dept: SysAdmins)" and "John (Dept: Support)". In the Admin panel, I go to "Agents", then "Add New Agent".
+  Next, I'm going to create two "Agents". Agents, for example, are when a company hires new employees so Agent accounts get created for new hires. I'll be creating, "Jane (Dept: SysAdmins)" and "John (Dept: Support)". In the Admin panel, I go to "Agents", then "Add New Agent". The following screenshots will show me creating both "Agents" and permissions I have decided they'll have.
+</p>
+
+<p>
+  
 </p>
