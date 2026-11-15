@@ -55,7 +55,8 @@ Here you can see I'm using Remmina (a Remote Desktop Protocol application). The 
 <img width="1856" height="1027" alt="screenshot-osticket-adminloginscreen" src="https://github.com/user-attachments/assets/4425dd80-5518-498a-a02f-64705776f6f2" />
 
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I'm on the osTicket admin login screen. I'll type the username and password and login.
 </p>
 <br />
