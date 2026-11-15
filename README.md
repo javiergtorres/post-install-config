@@ -143,5 +143,5 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 </P>
 
 <p>
-  Now I'm going to create an "Online Banking" team. The point of teams is if you want to create a group of people who are all from different departments. Under the "Agents" tab, click "Teams", then click "Add New Team"
+  Now I'm going to create an "Online Banking" team. The point of teams is if you want to create a group of people who are all from different departments. Under the "Agents" tab, click "Teams", then click "Add New Team".
 </p>
