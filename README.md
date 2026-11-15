@@ -77,3 +77,12 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 <p>
   From here, I'm going to click "add new role"
 </p>
+
+<p>
+  <img width="1811" height="1011" alt="screenshot-creating-supremeadmin" src="https://github.com/user-attachments/assets/92324b73-fa15-4e6d-bfe5-f9f8f7d7b43d" />
+
+</p>
+
+<p>
+  
+</p>
