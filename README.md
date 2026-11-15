@@ -52,7 +52,8 @@ Here you can see I'm using Remmina (a Remote Desktop Protocol application). The 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1856" height="1027" alt="screenshot-osticket-adminloginscreen" src="https://github.com/user-attachments/assets/4425dd80-5518-498a-a02f-64705776f6f2" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
