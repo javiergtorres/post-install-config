@@ -283,6 +283,8 @@ Sev-B: for a slightly less bad problem
 
 
 Sev-C: for a problem that really isn't that bad
+
+The grace period is if the ticket hasn't been resolved by that hour amount it is considered overdue.
 </p>
 
 <p>
