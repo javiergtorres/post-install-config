@@ -154,3 +154,12 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 <p>
   Here I'm creating the "Online Banking" team, from here I"ll click "Create Team".
 </p>
+
+<p>
+  <img width="1836" height="1047" alt="screenshot-onlinebankingteam-created" src="https://github.com/user-attachments/assets/c7caeb8d-d092-40d4-84d3-1abe86930faf" />
+
+</p>
+
+<p>
+  "Online Banking" team has been created.
+</p>
