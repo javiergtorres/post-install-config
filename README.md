@@ -163,3 +163,12 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 <p>
   "Online Banking" team has been created.
 </p>
+
+<p>
+  <img width="1844" height="1045" alt="screenshot-settings-usersettings" src="https://github.com/user-attachments/assets/a759b1ba-2bb5-42e3-a24c-0a2cb173d98e" />
+
+</p>
+
+<p>
+  Now I'm going to adjust the settings so that any End User can create a ticket, without the need to have an account. I'll go to "Settings", then "User" settings. Where it says, "Registration Required", I want to make sure that box is left unchecked.
+</p>
