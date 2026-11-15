@@ -266,10 +266,20 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
   I'm going to create three SLAs:
 
   Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+
+  
 Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+
+
 Sev-C (Grace Period: 8 hours, Business Hours)
 
+
+
 Sev-A: for a really bad problem that affects a business in a really bad way and must be fixed ASAP!
+
+
 Sev-B: for a slightly less bad problem
+
+
 Sev-C: for a problem that really isn't that bad
 </p>
