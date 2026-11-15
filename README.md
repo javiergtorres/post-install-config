@@ -66,5 +66,5 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 </p>
 
 <p>
-  From here I'll click the "Agent" button, then I'll click the "Roles" button. I'll create a "Supreme Admin" role.
+  From here I'll click the "Agents" button, then I'll click the "Roles" button. I'll create a "Supreme Admin" role.
 </p>
