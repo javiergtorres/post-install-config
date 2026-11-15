@@ -349,3 +349,12 @@ Password Reset
 Other
 
 </p>
+
+<p>
+  <img width="1831" height="1043" alt="bussinesscriticaloutage-setup" src="https://github.com/user-attachments/assets/64451a82-6c69-4daf-b74d-f91aa9d580c6" />
+
+</p>
+
+<p>
+  Here I'm creating the "Business Critical Outage" Help Topic. Then I'll click "Add Topic". I'll be using this screen to create all the Help Topics. 
+</p>
