@@ -91,7 +91,7 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
   <img width="1817" height="1004" alt="screenshot-giving-all-permissions-to-supremeadmin" src="https://github.com/user-attachments/assets/806444e6-e584-4766-8852-5a359448ab59" />
 
 </p>
-Here I clicked "Permissions" , and under "Tickets", "Tasks", and "Knowledgebase" I'm going to check every box then click "Add Role"
+Here I clicked "Permissions" , and under "Tickets", "Tasks", and "Knowledgebase" I'm going to check every box then click "Add Role". Then the "Supreme Admin" role will be created.
 <p>
   
 </p>
