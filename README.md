@@ -272,7 +272,7 @@ Sev-B (Grace Period: 4 hours, Schedule: 24/7)
 
 
 Sev-C (Grace Period: 8 hours, Business Hours)
-
+--------------------------------------------------------------------------------------------------------------------
 
 
 Sev-A: for a really bad problem that affects a business in a really bad way and must be fixed ASAP!
