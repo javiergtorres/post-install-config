@@ -93,7 +93,16 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 </p>
 
 <p>
-  Here I clicked "Permissions" , and under "Tickets", "Tasks", and "Knowledgebase" I'm going to check every box then click "Add Role". Then the "Supreme Admin" role will be created. After that I'll create a department called "SysAdmins".
+  Here I clicked "Permissions" , and under "Tickets", "Tasks", and "Knowledgebase" I'm going to check every box then click "Add Role". Then the "Supreme Admin" role will be created. 
+</p>
+
+<p>
+  <img width="1807" height="1038" alt="screenshot-supremeadmin-role-created" src="https://github.com/user-attachments/assets/7eb86877-8414-4496-9fe8-4e31aa6edf99" />
+
+</p>
+
+<p>
+  "Supreme Admin" role has been created.
 </p>
 
 <p>
