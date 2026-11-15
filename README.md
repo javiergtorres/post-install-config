@@ -136,3 +136,12 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 <p>
   "SysAdmins" department has been created.
 </p>
+
+<P>
+  <img width="1827" height="1047" alt="screenshot-creating-onlinebanking-team" src="https://github.com/user-attachments/assets/929bf863-83d0-4d7d-a135-05e191aaa078" />
+
+</P>
+
+<p>
+  Now I'm going to create an "Online Banking" team. The point of teams is if you want to create a group of people who are all from different departments. Under the "Agents" tab, click "Teams", then click "Add New Team"
+</p>
