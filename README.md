@@ -291,5 +291,14 @@ Sev-C: for a problem that really isn't that bad
 </p>
 
 <p>
-  Configuring Sev-A
+  Configuring Sev-A.
+</p>
+
+<p>
+  <img width="1860" height="1044" alt="sev-B-configuration" src="https://github.com/user-attachments/assets/20d84851-05ff-4388-b28c-98ef4b32f555" />
+
+</p>
+
+<p>
+  Configuring Sev-B.
 </p>
