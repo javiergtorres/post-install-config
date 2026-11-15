@@ -302,3 +302,12 @@ Sev-C: for a problem that really isn't that bad
 <p>
   Configuring Sev-B.
 </p>
+
+<p>
+  <img width="1849" height="1040" alt="Sev-C-configuration" src="https://github.com/user-attachments/assets/565da12c-2dc6-4fa5-8e73-797602aa9645" />
+
+</p>
+
+<p>
+  Configuring Sev-C.
+</p>
