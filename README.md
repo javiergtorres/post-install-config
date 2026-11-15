@@ -60,3 +60,11 @@ Here you can see I'm using Remmina (a Remote Desktop Protocol application). The 
 Here I'm on the osTicket admin login screen. I'll type the username and password and login.
 </p>
 <br />
+
+<p>
+<img width="1826" height="1014" alt="screenshot-osTicket-agents-to-roles-configuration" src="https://github.com/user-attachments/assets/09b2df0a-d8ae-43ee-81b4-130095393ba1" />
+</p>
+
+<p>
+  From here I'll click the "Agent" button, then I'll click the "Roles" button. I'll create a "Supreme Admin" role.
+</p>
