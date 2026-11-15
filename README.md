@@ -229,3 +229,21 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 <p>
   Next, I'll add a "User", I'll call her "Karen". For that I go to the "Agent Panel" near the top of the screen. Then I click "Users", after that click "Add User".
 </p>
+
+<p>
+  <img width="1848" height="1045" alt="karenflores-user-creating" src="https://github.com/user-attachments/assets/821faf8a-2dfe-4e1d-afd8-b6e9df2e674f" />
+
+</p>
+
+<p>
+  Here I'm creating the user account, then I'll click "Add User".
+</p>
+
+<p>
+  <img width="1847" height="1038" alt="karen-hasbeencreated" src="https://github.com/user-attachments/assets/3e544610-bdcb-4aa3-9f44-a4c9d3b4c15e" />
+
+</p>
+
+<p>
+  User account for Karen has been created.
+</p>
