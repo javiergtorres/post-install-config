@@ -84,5 +84,10 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 </p>
 
 <p>
-  
+  Here I'm creating a "Supreme Admin" role, and I'm going to give it all permissions to do everything. 
+</p>
+
+<p>
+  <img width="1817" height="1004" alt="screenshot-giving-all-permissions-to-supremeadmin" src="https://github.com/user-attachments/assets/806444e6-e584-4766-8852-5a359448ab59" />
+
 </p>
