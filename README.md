@@ -104,3 +104,17 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 <p>
   Here I'm on the Departments page, and I'll click "Add New Department".
 </p>
+
+<p>
+  <img width="1878" height="1043" alt="screenshot-creating-sysadminsdepartment" src="https://github.com/user-attachments/assets/5d2de449-5d4f-4934-94bc-6d1fcc96f7e7" />
+
+</p>
+
+<p>
+  <img width="1861" height="1036" alt="screenshot-creating-sysadminsdepartment-pt2" src="https://github.com/user-attachments/assets/8b8de0ff-9412-4d9c-af8b-9051fe396c2e" />
+
+</p>
+
+<p>
+  Here you can see I'm creating a "SysAdmins" department, making sure that in the "Parent" section, it's listed as a "Top Level Department" so the department will be able to see all tickets. For now, that's all I'll configure, then I'll hit "Create Dept" at the bottom of the screen.
+</p>
