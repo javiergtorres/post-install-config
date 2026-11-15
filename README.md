@@ -358,3 +358,14 @@ Other
 <p>
   Here I'm creating the "Business Critical Outage" Help Topic. Then I'll click "Add Topic". I'll be using this screen to create all the Help Topics. 
 </p>
+
+<p>
+  <img width="1837" height="1041" alt="all-help-topics-created" src="https://github.com/user-attachments/assets/d9f5ee65-92bc-4778-8c07-4f5dfe144d1d" />
+
+</p>
+
+<p>
+  Here you can see all the Help Topics I've created. 
+
+  That concludes a general setup after creating an osTicket system.
+</p>
