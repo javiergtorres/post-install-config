@@ -47,7 +47,7 @@ First thing, I created a Windows 11 virtual machine in Microsoft Azure. I'll nee
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here you can see I'm using Remmina (a Remote Desktop Protocol application). The software I'm using on my laptop is Garuda Linux. From here I'll connect to the Windows 11 virtual machine by pressing the connect button.
 </p>
 <br />
 
