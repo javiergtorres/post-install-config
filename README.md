@@ -43,7 +43,8 @@ First thing, I created a virtual machine in Microsoft Azure. I'll need the publi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1915" height="1078" alt="screenshot-garudalinux-rdp" src="https://github.com/user-attachments/assets/c072daaa-5e8e-4f68-94f4-d66913a8015e" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
