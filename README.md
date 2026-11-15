@@ -256,3 +256,20 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 <p>
   Now I'm going to configure SLAs, which basically is how much time you have to do some specific task. Whether that's responding to a ticket, or completing a ticket, etc. For that, I'll go back to the Admin panel at the top of the screen. Then I click the "Manage" button, then "SLA".
 </p>
+
+<p>
+  <img width="1848" height="1046" alt="manage-then-SLA" src="https://github.com/user-attachments/assets/e911fb40-5e0f-424e-8eb9-91374fe4cd06" />
+
+</p>
+
+<p>
+  I'm going to create three SLAs:
+
+  Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+Sev-C (Grace Period: 8 hours, Business Hours)
+
+Sev-A: for a really bad problem that affects a business in a really bad way and must be fixed ASAP!
+Sev-B: for a slightly less bad problem
+Sev-C: for a problem that really isn't that bad
+</p>
