@@ -183,5 +183,35 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 </p>
 
 <p>
-  
+  <img width="1834" height="1045" alt="creatingjane-1" src="https://github.com/user-attachments/assets/ab13d348-9502-46f3-973d-32453b080afc" />
+
+</p>
+
+<p>
+  <img width="1833" height="1046" alt="creatingjane-2" src="https://github.com/user-attachments/assets/b44d11f1-0893-40d2-a376-29f9a5275e85" />
+
+</p>
+
+<p>
+  <img width="1837" height="1046" alt="creatingjane-3" src="https://github.com/user-attachments/assets/6345da2c-68f5-4ce9-90b2-6f52b455b214" />
+
+</p>
+
+<p>
+  <img width="1846" height="1044" alt="creatingjohn-1" src="https://github.com/user-attachments/assets/832f1829-aa7a-41ee-a6d3-89374871a4ee" />
+
+</p>
+
+<p>
+  <img width="1844" height="1041" alt="creatingjohn-2" src="https://github.com/user-attachments/assets/1c86e04c-d2a6-4c3e-b57e-0d059a4f9198" />
+
+</p>
+
+<p>
+  <img width="1848" height="1042" alt="bothjaneandjohncreated" src="https://github.com/user-attachments/assets/571dff8c-c32c-4463-9d17-8fb5ffe9bb8f" />
+
+</p>
+
+<p>
+  Here are both "Jane" and "John" Agent accounts created.
 </p>
