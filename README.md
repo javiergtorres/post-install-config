@@ -313,3 +313,39 @@ The grace period is if the ticket hasn't been resolved by that hour amount it is
 <p>
   Configuring Sev-C.
 </p>
+
+<p>
+  <img width="1838" height="1038" alt="allserviceagreements-created" src="https://github.com/user-attachments/assets/dc13a050-2333-4f3d-8d68-8249a565ca16" />
+
+</p>
+
+<p>
+  All service agreements created.
+</p>
+
+<p>
+  <img width="1842" height="1047" alt="helptopics-screen" src="https://github.com/user-attachments/assets/59a93428-3b3d-4664-aedc-9b71fbe9f410" />
+
+</p>
+
+<p>
+  Now I'm going to configure "Help Topics". That comes in to play when whoever is creating a ticket, they'll have categories for specific types of issues that a ticket can fall under. For that, go to "Admin Panel", "Manage", then "Help Topics". 
+
+
+  I'm going to create these Help Topics:
+
+  Business Critical Outage
+
+  
+Personal Computer Issues
+
+
+Equipment Request
+
+
+Password Reset
+
+
+Other
+
+</p>
