@@ -329,7 +329,7 @@ The grace period is if the ticket hasn't been resolved by that hour amount it is
 </p>
 
 <p>
-  Now I'm going to configure "Help Topics". That comes in to play when whoever is creating a ticket, they'll have categories for specific types of issues that a ticket can fall under. For that, go to "Admin Panel", "Manage", then "Help Topics". 
+  Now I'm going to configure "Help Topics". That comes in to play when whoever is creating a ticket, they'll have categories for specific types of issues that a ticket can fall under. For that, go to "Admin Panel", "Manage", then "Help Topics". I'll click "Add New Help Topics".
 
 
   I'm going to create these Help Topics:
