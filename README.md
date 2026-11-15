@@ -254,7 +254,7 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 </p>
 
 <p>
-  Now I'm going to configure SLAs, which basically is how much time you have to do some specific task. Whether that's responding to a ticket, or completing a ticket, etc. For that, I'll go back to the Admin panel at the top of the screen. Then I click the "Manage" button, then "SLA".
+  Now I'm going to configure SLAs, which basically is how much time you have to do some specific task. Whether that's responding to a ticket, or completing a ticket, etc. For that, I'll go back to the Admin panel at the top of the screen. Then I click the "Manage" button, then "SLA". Then I click "Add new SLA plan".
 </p>
 
 <p>
