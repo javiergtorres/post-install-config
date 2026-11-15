@@ -183,6 +183,11 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
 </p>
 
 <p>
+  <img width="1835" height="1040" alt="janedoe" src="https://github.com/user-attachments/assets/e9013f31-c279-4427-a469-8a1a2e05b470" />
+
+</p>
+
+<p>
   <img width="1834" height="1045" alt="creatingjane-1" src="https://github.com/user-attachments/assets/ab13d348-9502-46f3-973d-32453b080afc" />
 
 </p>
