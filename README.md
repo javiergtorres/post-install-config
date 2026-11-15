@@ -73,7 +73,7 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
   <img width="1826" height="1014" alt="screenshot-adding-new-role" src="https://github.com/user-attachments/assets/081af633-3a33-4001-8c78-76440cb30b3d" />
 
 </p>
-From here, I'm going to click "add new role"
+
 <p>
-  
+  From here, I'm going to click "add new role"
 </p>
