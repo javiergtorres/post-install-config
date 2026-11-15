@@ -38,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-First thing, I created a virtual machine in Microsoft Azure. I'll need the public IP address, username, and password of the virtual machine so I can remote desktop in to the virtual machine. You can see the public IP address in the photo. 
+First thing, I created a Windows 11 virtual machine in Microsoft Azure. I'll need the public IP address, username, and password of the virtual machine so I can remote desktop in to the virtual machine. You can see the public IP address in the photo. 
 </p>
 <br />
 
