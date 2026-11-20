@@ -60,6 +60,8 @@ The software I'm using on my laptop is Garuda Linux. Here you can see I'm using 
 <p>
 Here I'm on the osTicket admin login screen. I'll type the username and password and login.
 </p>
+
+<h2>Configuring Roles </h2>
 <br />
 
 <p>
