@@ -108,6 +108,8 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
   "Supreme Admin" role has been created.
 </p>
 
+<h2> Configuring Departments</h2>
+
 <p>
   <img width="1824" height="1008" alt="screenshot-adding-sysadmin-department" src="https://github.com/user-attachments/assets/10e577c1-99ab-4ce4-8f4c-806bfbaa29d5" />
 
