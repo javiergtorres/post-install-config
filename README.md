@@ -232,6 +232,8 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
   Here are both "Jane" and "John" Agent accounts created.
 </p>
 
+<h2>Configuring Users</h2>
+
 <p>
   <img width="1837" height="1041" alt="creatinguser-karen" src="https://github.com/user-attachments/assets/abcacc01-b4cb-4f29-9f89-a86d4d193860" />
 
