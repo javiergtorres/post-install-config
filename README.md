@@ -261,6 +261,8 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
   User account for Karen has been created.
 </p>
 
+<h2>Configuring SLA's</h2>
+
 <p>
   <img width="1848" height="1046" alt="manage-then-SLA" src="https://github.com/user-attachments/assets/ea55cc51-044c-4a79-ab4d-6fcc88c5c7bc" />
 
