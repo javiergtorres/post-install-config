@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Allow anyone to create tickets
 - Configure Agents (workers)
 - Configure Users (customers)
-- Configure SLA
+- Configure SLA (amount of urgency/ how long a ticket has to be completed before considered overdue)
 - Configure Help Topics (For when users create a ticket)
 
 <h2>Configuration Steps</h2>
