@@ -142,6 +142,8 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
   "SysAdmins" department has been created.
 </p>
 
+<h2>Configuring Teams</h2>
+
 <P>
   <img width="1827" height="1047" alt="screenshot-creating-onlinebanking-team" src="https://github.com/user-attachments/assets/929bf863-83d0-4d7d-a135-05e191aaa078" />
 
