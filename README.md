@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Configure Roles (for grouping permissions)
 - Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
-- Configure Teams
+- Configure Teams (putting people from different departments into teams)
 - Allow anyone to create tickets
 - Configure Agents (workers)
 - Configure Users (customers)
