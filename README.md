@@ -182,6 +182,8 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
   Now I'm going to adjust the settings so that any End User can create a ticket, without the need to have an account. I'll go to "Settings", then "User" settings. Where it says, "Registration Required", I want to make sure that box is left unchecked.
 </p>
 
+<h2>Configuring Agents</h2>
+
 <p>
   <img width="1825" height="1051" alt="screenshot-addnewagents-panel" src="https://github.com/user-attachments/assets/c8c73f17-2cd1-4e4a-bc8c-70d0914215ff" />
 
