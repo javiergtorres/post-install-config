@@ -171,6 +171,8 @@ Here I'm on the osTicket admin login screen. I'll type the username and password
   "Online Banking" team has been created.
 </p>
 
+<h2>Allowing any User to create tickets(regardless if they have an account or not)</h2>
+
 <p>
   <img width="1844" height="1045" alt="screenshot-settings-usersettings" src="https://github.com/user-attachments/assets/a759b1ba-2bb5-42e3-a24c-0a2cb173d98e" />
 
