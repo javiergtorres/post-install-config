@@ -19,7 +19,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b> 
+- Windows 11</b>
+- Garuda Linux
 
 <h2>Post-Install Configuration Objectives</h2>
 
