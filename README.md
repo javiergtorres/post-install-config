@@ -338,6 +338,8 @@ The grace period is if the ticket hasn't been resolved by that hour amount it is
   All service agreements created.
 </p>
 
+<h2>Configuring Help Topics</h2>
+
 <p>
   <img width="1842" height="1047" alt="helptopics-screen" src="https://github.com/user-attachments/assets/59a93428-3b3d-4664-aedc-9b71fbe9f410" />
 
