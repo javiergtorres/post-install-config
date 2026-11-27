@@ -33,8 +33,8 @@ Basically, osTicket is a system where people submit IT problems, and IT support 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11</b>
-- Garuda Linux
+- Windows 11
+- Garuda Linux (Linux is a free and open source operating software and there are different distributions of Linux, aka versions. Garuda is a distribution of Linux that I prefer to use)
 
 <h2>Post-Install Configuration Objectives</h2>
 
