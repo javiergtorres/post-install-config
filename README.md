@@ -12,10 +12,24 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
+
+  Microsoft Azure is Microsoft's cloud computing platform. It lets businesses, developers, and individuals use Microsoft's internet-based computing services instead of having to buy and maintain their own physical servers and IT infrastructure.
+
+Think of Azure as renting computers, storage, databases, and software over the internet from Microsoft.
+
 - Remote Desktop
-- Internet Information Services (IIS)
+
+   Remote Desktop is a technology that allows you to access and control another computer from a different location using the internet or a network.
+
+Basically, it's like sitting in front of another computer even though you're physically somewhere else.
+
+
 - osTicket system
+
+  osTicket is a free, open-source help desk and ticketing system used by IT support teams to manage, track, and resolve technical problems reported by employees or customers.
+
+Basically, osTicket is a system where people submit IT problems, and IT support technicians receive, manage, and resolve those problems through tickets.
 
 <h2>Operating Systems Used </h2>
 
